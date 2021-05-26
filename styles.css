@@ -220,7 +220,7 @@ footer .illustration {
 }
 /* media query for responsive layout */
 
-@media (max-width: 375px) {
+@media (max-width: 800px) {
   h1,
   h2 {
     font-size: 2.5em;
